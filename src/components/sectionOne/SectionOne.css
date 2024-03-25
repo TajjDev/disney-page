@@ -1,0 +1,31 @@
+#sectionOne{
+    width: 95%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    padding: 50px 0 0px 0;
+    justify-content: space-between;
+    background: linear-gradient(90deg, rgba(128, 128, 128, 0.14), #fff, rgba(128, 128, 128, 0.14));
+}
+#sectionOne .text{
+    width: 42%;
+    padding: 40px;
+
+}
+#sectionOne .text h3{
+    font-size: 17px;
+    width: auto;
+    font-weight: 600;
+}
+#sectionOne .text p{
+    font-size: 12px;
+}
+#sectionOne .image{
+    width:58%;
+    padding-right: 30px;
+    display: flex;
+
+}
+.image img{
+    width: 100%;
+}
