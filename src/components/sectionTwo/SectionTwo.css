@@ -21,6 +21,7 @@
 }
 .secOne a{
     display: flex;
+    width: 100%;
     flex-direction: column;
     text-decoration: none;
     color: #000;
@@ -54,6 +55,7 @@
 }
 .secOne1 a{
     display: flex;
+    width: 100%;
     flex-direction: column;
     text-decoration: none;
     color: #000;
