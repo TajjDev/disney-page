@@ -1,6 +1,6 @@
 import Header from "../header/Header"
 import SectionFive from "../sectionFive/SectionFive"
-import SectionFour from "c:/Users/tajud/Documents/disney-page/src/components/sectionFour/sectionFour"
+import SectionFour from "../sectionFour/sectionFour"
 import SectionOne from "../sectionOne/SectionOne"
 import SectionThree from "../sectionThree/SectionThree"
 import SectionTwo from "../sectionTwo/SectionTwo"
