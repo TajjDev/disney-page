@@ -1,0 +1,26 @@
+.containcon6{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.contain6{
+    display: flex;
+    width: 48%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.secSix{
+    width: 25%;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.secSix a{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    text-decoration: none;
+    color: #000;
+}
+.secSix img{
+    width: 100%;
+}
