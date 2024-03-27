@@ -1,12 +1,12 @@
 import Header from "../header/Header"
 import SectionFive from "../sectionFive/SectionFive"
-import SectionFour from "../sectionFour/sectionFour"
 import SectionOne from "../sectionOne/SectionOne"
 import SectionThree from "../sectionThree/SectionThree"
 import SectionTwo from "../sectionTwo/SectionTwo"
 import "./Render.css"
 import SectionSix from "../SectionSix/SectionSix"
 import SectionSeven from "../SectionSeven/SectionSeven"
+import SectionFour from "../sectionFour/sectionFour"
 
 export default function Render(){
     
