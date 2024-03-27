@@ -6,7 +6,7 @@ import SectionTwo from "../sectionTwo/SectionTwo"
 import "./Render.css"
 import SectionSix from "../SectionSix/SectionSix"
 import SectionSeven from "../SectionSeven/SectionSeven"
-import SectionFour from "../sectionFour/sectionFour"
+import SectionFour from "../sectionFour/SectionFour"
 
 export default function Render(){
     
